@@ -7,14 +7,11 @@
 - [Raj K Singh](https://www.novvum.io)<br />
   <img src="https://avatars2.githubusercontent.com/u/15880596?v=4" width="100px;" alt="Raj K Singh"/>
 
-- [Kris Yang](https://github.com/hkyang995)<br />
-  <img src="https://avatars2.githubusercontent.com/u/31262171?v=4" width="100px;" alt="Kris Yang"/>
-
-- [Jorge Carlos](https://github.com/Jorge0521)<br />
+* [Jorge Carlos](https://github.com/Jorge0521)<br />
   <img src="https://avatars3.githubusercontent.com/u/30252118?v=4" width="100px;" alt="Jorge Carlos"/>
 
-- [Trev Heath](https://github.com/TrevHeath)<br />
+* [Trev Heath](https://github.com/TrevHeath)<br />
   <img src="https://avatars3.githubusercontent.com/u/23729837?v=4" width="100px;" alt="TrevHeath"/>
 
-- [Janeen Yamak](https://github.com/janeenyamak)<br />
+* [Janeen Yamak](https://github.com/janeenyamak)<br />
   <img src="https://avatars3.githubusercontent.com/u/36055265?s=400&v=4" width="100px;" alt="TrevHeath"/>
